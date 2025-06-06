@@ -25,3 +25,25 @@ git clone https://github.com/karri-ten/VibeScope.git
 cd VibeGraph
 pip install -r requirements.txt
 python main.py
+
+
+# VibeScope: Twitter Sentiment Analysis for US 2020 Election
+
+## Overview
+VibeScope scrapes tweets, cleans and analyzes text, and visualizes online sentiment trends for US election candidates.
+
+## How to Run
+- Clone this repo and install dependencies: `pip install -r requirements.txt`
+- Open `notebooks/VibeScope.ipynb` in Colab or Jupyter
+- Enter your Twitter API credentials
+- Fetch tweets, analyze, and visualize!
+
+## Data Sources
+- Tweets collected via Twitter API
+- Kaggle 
+
+## Results
+- (Describe key findings, e.g. which candidate had more positive sentiment…)
+
+## Author
+- [Your Name]
