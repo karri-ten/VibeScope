@@ -7,4 +7,5 @@ transformers
 matplotlib
 seaborn
 plotly
-streamlit
+Gradio
+VaderSentiment
