@@ -17,7 +17,7 @@ VibeScope is a Twitter sentiment analysis tool that collects and analyzes tweets
 - Python (Tweepy, Pandas, NLTK, TextBlob)
 - Machine Learning (Scikit-Learn, Transformers)
 - Visualization (Matplotlib, Seaborn, Plotly)
-- Streamlit or Flask for interactive dashboards
+- Gradio for interactive dashboards
 
 ## 📦 Installation & Setup
 ```bash
